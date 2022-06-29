@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Elena Pratt",
+        "time": "1100",
+        "passengerLocation": "Miller & Park"
+    },
+    {
+        "name": "Hugh Swanson",
+        "time": "1250",
+        "passengerLocation": "Park & Mills"
+    },
+    {
+        "name": "Courtney Owen",
+        "time": "1315",
+        "passengerLocation": "Lake & Swanson"
+    },
+    {
+        "name": "Jenna Beck",
+        "time": "1411",
+        "passengerLocation": "Langdon & Park"
+    },
+    {
+        "name": "Kent Harper",
+        "time": "1052",
+        "passengerLocation": "Observatory & Elm"
+    },
+    {
+        "name": "Andy Pittman",
+        "time": "1011",
+        "passengerLocation": "Lake & Swanson"
+    }
+]
